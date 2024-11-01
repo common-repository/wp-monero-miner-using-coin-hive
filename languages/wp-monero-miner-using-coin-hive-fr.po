@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Monero Miner\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-03 12:52+0000\n"
+"PO-Revision-Date: 2017-10-08 08:59+0000\n"
+"Last-Translator: Gilles <gilles@wittezaele.fr>\n"
+"Language-Team: French (France)\n"
+"Language: fr-FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../wp-monero-miner-using-coin-hive/trunk/includes/redirect.php:5
+msgid "Redirecting..."
+msgstr "Redirection..."
+
+#: ../wp-monero-miner-using-coin-hive/trunk/includes/redirect.php:32
+msgid "Library failed to load."
+msgstr "La bibliothèque n'a pas pu être chargée."
+
+#: ../wp-monero-miner-using-coin-hive/trunk/includes/redirect.php:34
+msgid "Please disable adblock!"
+msgstr "Merci de désactiver AdBlock !"
+
+#: ../wp-monero-miner-using-coin-hive/trunk/includes/redirect.php:38
+msgid "powered by"
+msgstr "propulsé par"
+
+#: ../wp-monero-miner-using-coin-hive/trunk/widget/miner/partials/partial-miner.php:8
+msgid ""
+"You can now support me directly on this page using the power of your "
+"computer. You can turn it off anytime."
+msgstr ""
+"Vous pouvez maintenant me supporter directement sur cette page en utilisant "
+"la puissance de votre ordinateur. Vos pouvez arrêter à tout moment."
+
+#: ../wp-monero-miner-using-coin-hive/trunk/widget/miner/partials/partial-miner.php:12
+#, php-format
+msgid "Mining with %s Hashes/s"
+msgstr "Minage avec %s hashes/s"
+
+#: ../wp-monero-miner-using-coin-hive/trunk/widget/miner/partials/partial-miner.php:15
+msgid "Start mining"
+msgstr "Commencer le minage"
+
+#: ../wp-monero-miner-using-coin-hive/trunk/widget/miner/partials/partial-miner.php:18
+msgid "Stop mining"
+msgstr "Arrêter le minage"
+
+#. Name of the plugin
+msgid "WP Monero Miner"
+msgstr "WP Monero Miner avec Coin Hive"
+
+#. Description of the plugin
+msgid "Let your users mine for you (Monero mining using coinhive)."
+msgstr ""
+"Faire en sorte que vos visiteurs mine pour vous (minage de Monero avec "
+"coinhive)."
+
+#. Author of the plugin
+msgid "Dennis Keil"
+msgstr "Dennis Kell"
+
+#. Author URI of the plugin
+#, fuzzy
+msgid "https://github.com/denniske"
+msgstr "https://github.com/denniske"

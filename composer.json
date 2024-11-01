@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "post-update-cmd": [
+            "node build/build-assets.js"
+        ]
+    },
+    "require": {
+        "mustache/mustache": "^2.12",
+        "mobiledetect/mobiledetectlib": "^2.8"
+    }
+}

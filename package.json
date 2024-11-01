@@ -1,0 +1,16 @@
+{
+  "name": "wp-monero-miner",
+  "version": "",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "minifier": "^0.8.1"
+  },
+  "scripts": {
+    "build": "npm run build-assets",
+    "build-assets": "node build/build-assets.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
